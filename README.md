@@ -1,65 +1,58 @@
-🎵 Musical Instrument Studio (Scratch Project)
-📌 Project Overview
+# 🎵 Musical Instrument Studio
 
-Musical Instrument Studio is an interactive Scratch project where users can play different virtual musical instruments using the keyboard. The project provides a fun and engaging way to explore sounds while learning how keyboard events, sprites, and backdrops work in Scratch.
+## 📌 Project Overview
+Musical Instrument Studio is an interactive Scratch project that allows users to play multiple virtual musical instruments using the keyboard. The project is designed to help users explore sounds and learn basic Scratch programming concepts in a fun and engaging way.
 
-🖥️ Project Flow
+---
 
-The project starts with an instruction backdrop that explains how to play the instruments.
+## 🖥️ Project Flow
+1. The project starts with an instruction-only backdrop explaining how to use the keyboard.
+2. Users then move to the main studio stage.
+3. Instruments respond to specific keyboard inputs to play sounds.
 
-After viewing the instructions, users move to the main studio stage.
+---
 
-Users can then play different instruments by pressing the assigned keys on the keyboard.
+## 🎹 Instrument Controls
 
-🎹 Instrument Controls
-Instrument	Keys Used
-Guitar	A, D, S
-Piano	B, N, M
-Drum Set	1, 2, 3, 4
-Xylophone	6, 7, 8
+| Instrument     | Keys Used |
+|----------------|-----------|
+| Guitar         | A, D, S   |
+| Piano          | B, N, M   |
+| Drum Set       | 1, 2, 3, 4 |
+| Xylophone      | 6, 7, 8   |
 
-Pressing a key plays the corresponding instrument sound along with visual feedback.
+---
 
-✨ Features
+## ✨ Features
+- Multiple instrument sprites with unique sounds  
+- Keyboard-based sound mapping  
+- Instruction backdrop for user guidance  
+- Interactive studio stage with visual effects  
 
-Multiple instrument sprites with unique sounds
+---
 
-Keyboard-based sound mapping
+## 🎯 Learning Objectives
+- Understanding keyboard events in Scratch  
+- Working with sprites and backdrops  
+- Using sound blocks for interaction  
+- Creating an interactive multimedia project  
 
-Instruction-only backdrop for user guidance
+---
 
-Interactive studio stage
+## 🚀 How to Run
+1. Open the project in Scratch.
+2. Click the green flag to start.
+3. Follow the on-screen instructions.
+4. Use the keyboard to play the instruments.
 
-Visual effects to enhance the musical experience
+---
 
-🎯 Learning Objectives
+## 🛠️ Tools Used
+- Scratch (MIT Scratch platform)
+- Scratch sound library
+- Custom sprites and backdrops
 
-Understand keyboard events in Scratch
+---
 
-Learn how to work with sprites and backdrops
-
-Explore sound blocks and user interaction
-
-Create an interactive multimedia project
-
-🚀 How to Use
-
-Click the Green Flag to start the project.
-
-Read the instructions shown on the first backdrop.
-
-Move to the studio stage.
-
-Use the keyboard keys to play different instruments.
-
-🛠️ Tools Used
-
-Scratch (MIT Scratch platform)
-
-Built-in Scratch sound library
-
-Custom backdrops and sprites
-
-📚 Conclusion
-
-This project demonstrates how Scratch can be used to build an interactive musical application using simple programming concepts such as events, sounds, and visuals.
+## 📚 Conclusion
+This project demonstrates how simple Scratch programming concepts can be combined to create an engaging musical instrument studio.
